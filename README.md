@@ -45,6 +45,8 @@ URule提供了两个版本：一个是基于Apache-2.0协议开源免费版本�
 # 链接
 
 文档视频教程地址：[http://www.bstek.com/resources/doc/](http://www.bstek.com/resources/doc/)
+          
+文档教程：[https://m.w3cschool.cn/urule/](https://m.w3cschool.cn/urule/)
 
 URule PRO版在线示例：[http://112.124.15.63:8084/index.html](http://112.124.15.63:8084/index.html)
 
