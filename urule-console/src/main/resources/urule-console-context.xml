@@ -52,6 +52,9 @@
 		<property name="repositoryService" ref="urule.repositoryService"></property>
 		<property name="welcomePage" value="${urule.welcomePage}"></property>
 		<property name="title" value="${urule.console.title}"></property>
+		<property name="check" value="${urule.console.check}"></property>
+		<property name="username" value="${urule.console.username}"></property>
+		<property name="password" value="${urule.console.password}"></property>
 	</bean>
 	<bean id="urule.packageServletHandler" class="com.bstek.urule.console.servlet.respackage.PackageServletHandler">
 		<property name="repositoryService" ref="urule.repositoryService"></property>
