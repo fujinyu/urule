@@ -24,10 +24,9 @@ import javax.jcr.Node;
 import javax.jcr.NodeIterator;
 import javax.jcr.RepositoryException;
 
-import org.apache.tika.io.IOUtils;
-
 import com.bstek.urule.RuleException;
 import com.bstek.urule.console.repository.model.FileType;
+import org.apache.commons.io.IOUtils;
 
 /**
  * @author Jacky.gao
